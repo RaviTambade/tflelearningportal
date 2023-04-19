@@ -2,5 +2,13 @@
 
 ## Learning Management Solution for Transflower
 <hr/>
-### Mentor: Ravi Tambade
+<ol>
+  <li> Campaign</li>
+  <li> Course Promotion</li>
+  <li> Course Calendar</li>
+  <li> Online Mentoring</li>
+  
+</ol>
+
+Mentor: Ravi Tambade
 #### Members
