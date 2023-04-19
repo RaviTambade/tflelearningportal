@@ -3,8 +3,8 @@ package com.transflower.catalog;
 public class Product{
 
     private int id;
-    private string title;
-    private string description;
+    private String title;
+    private String description;
     private double unitprice;
     public Product(){
         this.id=23;
