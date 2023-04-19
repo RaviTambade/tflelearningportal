@@ -13,5 +13,10 @@ public class Product{
         this.unitprice=12.5;
 
     }
-    
+
+    public void ShowData(){
+        //int summaryPrice=56;
+        
+    }
+
 }
