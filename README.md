@@ -1,2 +1,5 @@
-# tflelearningportal
-Learning Management Solution for Transflower
+# Transflower Learning Management System
+
+## Learning Management Solution for Transflower
+
+### Mentor: Ravi Tambade
