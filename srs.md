@@ -1,11 +1,11 @@
 Software Requirement Specification  Document
 <hr/>
-Introduction:
+Introduction: 
 
 Objective:
 
 Scope:
 
-Functional Requirements:
+Functional Requirements: Learning Management Portal
 
 NonFunctional Requirements
