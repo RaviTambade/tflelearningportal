@@ -1,0 +1,10 @@
+Online shopping application:
+Products
+Orders
+Users
+Customers
+Payments
+Categories
+OrderItems
+Roles
+Cart

@@ -1,0 +1,33 @@
+
+Low level design"
+
+Operations:
+
+login
+register
+changepassword
+sendOtp
+
+ShowCart
+AddToCart
+RemoveFromCart
+GetCartItems
+
+GetCategories
+GetProductsByCategory
+GetAllProducts
+GetProductDetails(code)
+InsertProduct(product)
+UpdateProduct(code, product)
+removeProduct(code)
+
+BuyNow
+GetPaymentOption
+ShowBill
+AcceptPaymentInformation
+ChangePaymentInformation
+RemoveExistingPaymentInformation
+
+
+
+

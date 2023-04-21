@@ -1,5 +1,5 @@
 
-package com.transflower;
+package Models;
 public class Product{
 
     private int id;
